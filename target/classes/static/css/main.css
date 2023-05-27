@@ -1,0 +1,36 @@
+body {
+  font-size: xxx-large;
+  background-color: black;
+}
+
+.starter-template {
+  text-align: center;
+}
+
+input {
+  font-size: xxx-large;
+  padding: 5px;
+  margin: 5px;
+  border: inset white;
+  width: 100%;
+}
+
+#submit {
+  width: 10em;
+  border-radius: 5em;
+  margin-top: 1em;
+}
+
+fieldset {
+  border: none;
+}
+
+h1,
+h2 {
+  color: #ffffff;
+}
+
+h4,
+p {
+  color: #ffffff;
+}
