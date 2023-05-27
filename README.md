@@ -13,9 +13,9 @@ This is a chatbot application built using Java and the Spring framework. The app
 1. Clone the repository to your local machine:
 2. Open the project in your preferred Java IDE.
 3. Configure the OpenAI API key:
-4. Open the application.properties file.
-5. Replace 'YOUR_API_KEY' with your actual OpenAI API key.
-6. You can also replace the port number with the one of your requirement.
+-  Open the application.properties file.
+- Replace 'YOUR_API_KEY' with your actual OpenAI API key.
+- You can also replace the port number with the one of your requirement.
 
 ## How to get it running
 
